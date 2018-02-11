@@ -64,3 +64,7 @@ for i in range(4):
 
 print('rs:',rs)
 print(np.dot(rs,X_lately[-1])+clf.intercept_)
+
+
+if __name__ == '__main__':
+    print(1)
